@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SommerData
+- 👀 I’m interested in Financial Data analysis
+- 🌱 I’m currently learning Python, R and SQL
+- 💞️ I’m looking to collaborate on small projects, where I can learn some things and get hands on experience
