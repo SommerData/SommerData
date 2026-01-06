@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @SommerData
-- 👀 I’m interested in Financial Data Analysis, Data Science and AI Engineering.
-- 🌱 I’m currently learning and practicing python and SQL
-- 💞️ I’m looking to collaborate on small projects, where I can learn some things and get hands on experience
-  
+- 👋 Hey, I’m Max  
+- 👀 I build at the intersection of **finance × data × AI**  
+- 🌱 Leveling up in **Python** and **SQL** through projects  
+- 🧪 Working on portfolio projects privately for now — publishing when they’re ready  
+- 💬 Looking to connect with other builders who prefer **doing** over theorizing  
+- 🧠 I *do* love philosophizing about products — as long as we also ship
+
